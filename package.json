@@ -1,0 +1,14 @@
+{
+  "name": "pr-utils",
+  "version": "1.0.0",
+  "description": "Care Orchestrator UI dev utils",
+  "main": "index.js",
+  "bin": {
+    "pr-bower": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "martin",
+  "license": "ISC"
+}
